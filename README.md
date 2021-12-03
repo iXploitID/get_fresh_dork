@@ -16,6 +16,7 @@ pkg install git
 pkg install bash
 
 
+https://github.com/iXploitID/get_fresh_dork
 
 
 cd get_fresh_dork
@@ -33,3 +34,5 @@ bash a.sh
 #Farel Haxor
 
 #AmonXsec
+
+#Arya tyz
